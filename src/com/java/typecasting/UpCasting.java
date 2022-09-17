@@ -7,7 +7,10 @@ public class UpCasting {
 		short b=a;
 		int c=b;
 		long d=c;
-		System.out.println(d);
+		int n=10;
+		double m=10.233;
+		byte bablu=(byte)m;
+		System.out.println(bablu);
 		
 		
 		
