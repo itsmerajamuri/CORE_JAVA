@@ -5,7 +5,7 @@ public class IfCondition {
 	public static void main(String[] args) {
 		int a=10;
 		int b=28;
-		if(b<a) {
+		if(!(b>a)) {
 			System.out.println("true");
 		}
 		else {
